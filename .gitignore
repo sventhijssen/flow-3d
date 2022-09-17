@@ -1,0 +1,39 @@
+# Default ignored files
+/workspace.xml
+
+.idea/
+
+__pycache__/
+
+*.aux
+*.log
+*.pdf
+*.tex
+
+*.json
+
+*.csv
+
+# Image files
+*.dot
+*.ps
+*.svg
+*.txt
+
+# Visual Studio Code
+*.vscode
+
+# Virtual environment
+venv/
+
+# Locked files
+.~lock.*
+
+# ABC directory
+abc/
+
+# MacOS
+.DS_Store
+
+# Requirements
+!requirements.txt
